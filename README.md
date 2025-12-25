@@ -1,4 +1,6 @@
 Mega Shop Gallery 🛒
+
+
 A modern and responsive E-commerce product gallery built with React JS and Tailwind CSS.
 
 🔗 Live Demo
